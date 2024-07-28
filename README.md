@@ -1,2 +1,1 @@
-# photographer
-responsive website
+# photography starter
